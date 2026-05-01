@@ -18,7 +18,7 @@ class RiverProfile(Profile):
 		return [
 			'foot',
 			'xdg-desktop-portal-wlr',
-			'river',
+			'river-classic',
 		]
 
 	@property
